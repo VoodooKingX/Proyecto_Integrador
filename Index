@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mi Portafolio</title>
+</head>
+<body>
+	<header>
+		<h1>Mi Portafolio</h1>
+		<nav>
+			<ul>
+				<li><a href="#about">Sobre mí</a></li>
+				<li><a href="#projects">Proyectos</a></li>
+				<li><a href="#contact">Contacto</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="about">
+			<h2>Sobre mí</h2>
+			<p>Aquí puedes escribir una breve descripción sobre ti y tus habilidades.</p>
+		</section>
+		<section id="projects">
+			<h2>Proyectos</h2>
+			<ul>
+				<li><a href="#">Proyecto 1</a></li>
+				<li><a href="#">Proyecto 2</a></li>
+				<li><a href="#">Proyecto 3</a></li>
+			</ul>
+		</section>
+		<section id="contact">
+			<h2>Contacto</h2>
+			<p>Aquí puedes proporcionar información de contacto, como tu correo electrónico o enlaces a tus perfiles de redes sociales.</p>
+		</section>
+	</main>
+	<footer>
+		<p>Derechos reservados &copy; [Año] - [Nombre]</p>
+	</footer>
+</body>
+</html>
